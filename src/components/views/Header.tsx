@@ -47,7 +47,7 @@ const Header = () => {
         <ShoppingCart className="h-6 w-6" />  
       </div>
       <div>
-        success abc
+        successs
       </div>
     </div>
   );
